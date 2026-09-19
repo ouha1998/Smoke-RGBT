@@ -1,7 +1,8 @@
 # Smoke-RGBT
 
 ## 🔥 Smoke-RGBT Benchmark
-<img width="1322" height="559" alt="image" src="https://github.com/user-attachments/assets/7d9b1123-9f0c-42fa-b037-855b1e45e5bf" />
+<img width="1645" height="715" alt="image" src="https://github.com/user-attachments/assets/39ae885b-1055-4a27-829f-12b9e781b377" />
+
 
 **Smoke-RGBT** is an RGB-T video benchmark designed for visual perception
 under real-world smoke conditions. It contains RGB and thermal
@@ -32,13 +33,9 @@ differences.
 ---
 
 ## 👀 Dataset Examples
+<img width="1322" height="559" alt="image" src="https://github.com/user-attachments/assets/7d9b1123-9f0c-42fa-b037-855b1e45e5bf" />
 
-The following figure shows representative sequences from **Smoke-RGBT**
-under different smoke densities.
-
-<p align="center">
-  <img src="image.jpg" width="100%">
-</p>
+The following figure shows representative sequences from **Smoke-RGBT**.
 
 Examples include scenes under **thin**, **medium**, and **thick** smoke,
 illustrating the complementary characteristics of RGB and thermal modalities.
@@ -68,7 +65,7 @@ Several representative sequences are currently available for preview:
 | Scene types | Indoor + Outdoor |
 | Target categories | 59 |
 | Language descriptions | ✓ |
-| Modality-specific annotations | ✓ |
+| Modality-dependent annotations | ✓ |
 
 ---
 
@@ -78,5 +75,4 @@ Several representative sequences are currently available for preview:
 Smoke-RGBT/
 ├── README.md
 ├── image.jpg
-├── 3.21-testlist.txt
 └── ...
