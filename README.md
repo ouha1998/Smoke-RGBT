@@ -48,7 +48,7 @@ illustrating the complementary characteristics of RGB and thermal modalities.
 Several representative sequences are currently available for preview:
 
 **Baidu Netdisk:**  
-[Download example sequences](https://pan.baidu.com/s/1nF2g4GowHEhJJFlobCEjIA?pwd=7728)
+[https://pan.baidu.com/s/1KFPGsEve5TAWs8swGnxn4Q?pwd=7728)
 
 **Extraction code:** `7728`
 
