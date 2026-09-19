@@ -4,7 +4,7 @@
 <img width="1322" height="559" alt="image" src="https://github.com/user-attachments/assets/7d9b1123-9f0c-42fa-b037-855b1e45e5bf" />
 
 **Smoke-RGBT** is an RGB-T video benchmark designed for visual perception
-under real-world smoke conditions. It contains synchronized RGB and thermal
+under real-world smoke conditions. It contains RGB and thermal
 videos captured under diverse scenes and different levels of smoke degradation.
 
 The benchmark is developed to facilitate research on robust RGB-T perception,
