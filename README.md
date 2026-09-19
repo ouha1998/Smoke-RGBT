@@ -1,9 +1,5 @@
 # Smoke-RGBT
 
-<p align="center">
-  <img src="image.jpg" width="95%">
-</p>
-
 ## 🔥 Smoke-RGBT Benchmark
 
 **Smoke-RGBT** is an RGB-T video benchmark designed for visual perception
