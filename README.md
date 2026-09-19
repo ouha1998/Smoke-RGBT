@@ -18,7 +18,7 @@ differences.
 - 🖼️ **~902K video frames**
 - 🌫️ Multiple smoke-density levels: **thin, medium, and thick smoke**
 - 🌡️ Paired **RGB and thermal (TIR)** observations
-- 📦 Modality-specific annotations for RGB and TIR
+- 📦 Modality-dependent annotations for RGB and TIR
 - 📝 Target-level language descriptions
 - 🎯 Support for RGB-T tracking and other RGB-T perception tasks
 
